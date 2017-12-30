@@ -1,0 +1,26 @@
+{
+  "name": "node_auth",
+  "version": "1.0.0",
+  "description": "node authetication API using passport.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GayashanK/node_auth.git"
+  },
+  "author": "Kasun Gayashan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GayashanK/node_auth/issues"
+  },
+  "homepage": "https://github.com/GayashanK/node_auth#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-promise-router": "^2.0.0",
+    "joi": "^13.0.2",
+    "morgan": "^1.9.0"
+  }
+}
